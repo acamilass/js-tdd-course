@@ -1,12 +1,25 @@
 {
   "name": "js-tdd-course",
   "version": "1.0.0",
-  "description": "",
+  "description": "Biblioteca do curso JS com TDD",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acamilass/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library",
+    "course"
+  ],
+  "author": "Ana Camila Santos <acamilass@gmail.com> (https://github.com/acamilass)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acamilass/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/acamilass/js-tdd-course#readme"
 }
